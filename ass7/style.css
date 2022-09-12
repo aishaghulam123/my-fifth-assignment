@@ -1,0 +1,426 @@
+body{
+background-image:url(line.jpg);
+}
+#aaa{
+background-color: lightgray;
+width: 100%;
+height:45% ;
+}
+#logo{
+background-color: white;
+margin-left: 200px;
+box-shadow: 5px 5px 5px black;
+border: 3px solid lightslategray;
+padding: 10px;
+}
+#about{
+    border: 3px solid lightslategray;
+    padding: 10px;
+}
+#shope{
+    border: 3px solid lightslategray;
+    padding: 10px;
+}
+#shope:hover{
+    border: 3px solid lightslategray;
+    padding-top: 12px;
+}
+#about:hover{
+    border: 3px solid lightslategray;
+    padding: 12px;
+}
+#ppp{
+    border: 3px solid lightslategray;
+    padding: 10px;
+}
+#abc{
+    border: 3px solid lightslategray;
+    padding: 10px;
+}
+#unite{
+    border: 3px solid lightslategray;
+    padding: 10px;
+}
+
+#bbb{
+    background-color:white;
+    border: 2px solid grey;
+    width: 100%;
+height: 55%;
+    position: sticky;
+    top: 1px;
+}
+button{
+   
+    background-color: white;
+}
+#poke:hover {
+background-color: red;
+color: white;
+}
+#td:hover {
+background-color: yellow; 
+color:black;
+}
+#vd:hover {
+background-color: orange;
+color: white;
+}
+#ptv:hover {
+background-color: green;
+color: white;
+}
+#play:hover {
+background-color: blue;
+color: white;
+
+}
+#news:hover {
+background-color: darkblue;
+color: white;
+
+}
+#home{margin-left: 200px;}
+#lines{
+    width: 100%;
+    height: 100%;
+}
+#go{
+width: 70%;
+border: 5px solid white;
+ border-radius: 10px;
+margin-left: 10%;
+background-color: rgb(10, 173, 10);
+display: inline-block;
+}
+#go:hover{
+    padding-top: 5px;
+}
+#img{
+    width: 100%;
+}
+#zzz{
+    color: white;
+  
+}
+#twozero{
+    border: 5px solid white;
+    background-color: lightpink;
+    border-radius: 10px;
+   width:30%;
+   margin-left: 10%;
+   display:inline-block;
+}
+#two{
+    width: 100%;
+
+}
+#twozero:hover{
+padding-top: 5px;
+}
+#ccc{
+    border: 5px solid white;
+    background-color: gray;
+    border-radius: 10px;
+   width: 40%;
+   display: inline-block;
+  
+}
+ #three{
+    width: 100%;
+ }
+ #ddd{
+    border: 5px solid white;
+    background-color:skyblue;
+    border-radius: 10px;
+   width: 25%;
+   display: inline-block;
+   margin-left: 10%;
+ }
+ #six{
+    width: 100%;
+ }
+ #four{
+    width: 100%;
+ }
+ #eee{
+    border: 5px solid white;
+    background-color: darkblue;
+    border-radius: 10px;
+   width: 28%;
+   display: inline-block;
+ }
+ #fff{
+    border: 5px solid white;
+    background-color: lightpink;
+    border-radius: 10px;
+   width: 25%;
+   display: inline-block;
+ }
+ #five{
+    width:100%;
+ }
+ #ccc:hover{
+    padding-top: 5px;
+ }
+ #ddd:hover{
+padding-top: 5px;
+ }
+ #eee:hover{
+    padding-top: 5px;
+ }
+ #fff:hover{
+    padding-top: 5px;
+ }
+ #parent{
+border: 5px solid white;
+display: inline;
+
+ }
+ legend{
+    text-align: center;
+ }
+ #one{
+    border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;  
+ }
+ #zab{
+    width: 100%;
+ }
+ #zab:hover{
+    padding-top: 20px;
+ }
+ #pass{
+    text-align: center;
+ }
+ #ggg{
+    border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;    
+ }
+ #yza{
+    width: 100%;
+ }
+#yza:hover{
+    padding-top: 20px;
+}
+#fry{
+text-align: center;
+}
+#hhh{  border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;    
+ }
+ #xyz{
+    width: 100%;
+ }
+ #xyz:hover{
+    padding-top: 20px;
+ }
+ #hh {background-color: gray;
+    border: 5px solid black;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;
+ }
+ #wxy{width: 100%;}
+ #wxy:hover{
+    padding-top: 20px;
+ }
+#ii{
+    border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;    
+}
+#jj{
+    border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;    
+}
+#kk{
+    border: 5px solid black;
+    background-color: grey;
+    border-radius: 10px;
+   width: 20%;
+   display: inline-block;    
+}
+#cub{text-align: center;}
+#dwe{text-align: center;}
+#duo{text-align: center;}
+#ferr{text-align: center;}
+#vwx{width: 100%;}
+#vwx:hover{padding-top: 20px;}
+#uvw{width: 100%;}
+#uvw:hover{padding-top: 20px;}
+#tuv{width: 100%;}
+#tuv:hover{padding-top: 20px;}
+
+
+#por{
+    text-align: center;
+}
+#exp{
+    border-radius: 10px;
+    width: 200px;
+    color: white;
+    height: 40px;
+    background-color: black;
+    margin-left: 70%;
+margin-top: 50px;
+}
+#iii{
+    border: 5px solid white;
+    background-color: darkblue;
+    color:white;
+    border-radius: 10px;
+   width: 25%;
+   display: inline-block;
+margin-left: 10%;
+}
+#jjj{
+    border: 5px solid white;
+    background-color:lightgreen;
+    border-radius: 10px;
+   width: 30%;
+   display: inline-block;
+   color: white;
+}
+#kkk{
+    border: 5px solid white;
+    background-color: rgb(221, 21, 221);
+    border-radius: 10px;
+   width: 30%;
+   display: inline-block;
+   color: white;
+}
+#lll{border: 5px solid white;
+    background-color: rgb(243, 115, 243);
+    border-radius: 10px;
+   width: 26%;
+   display: inline-block;
+   color: white;
+margin-left: 10%;
+}
+#mmm{border: 5px solid white;
+    background-color: rgb(161, 72, 72);
+    border-radius: 10px;
+   width: 30%;
+   display: inline-block;
+   color: white;
+   margin-top: 10px;
+}
+#nnn{border: 5px solid white;
+    background-color: maroon;
+    border-radius: 10px;
+   width: 30%;
+   display: inline-block;
+   color: white;
+}
+#ten{
+width: 100%;
+}
+#eleven{width: 100%;}
+#seven{width: 100%;}
+h3{
+    color: black;
+}
+#tweleve{
+    width: 100%;
+}
+#thirteen{width: 100%;}
+#fourteen{width:    100%;}
+#legen{
+font-family: serif;
+font-size: x-large;
+font-style: inherit;
+}
+#iii:hover{padding-top: 10px;}
+#jjj:hover{padding-top: 10px;}
+#kkk:hover{padding-top: 10px;}
+#lll:hover{padding-top: 10px;}
+#mmm:hover{padding-top: 10px;}
+#nnn:hover{padding-top: 10px;}
+#ooo{
+    width: 300px;
+margin-left: 70%;
+margin-top: 20px;
+background-color: white;
+}
+#ooo:hover{padding-top: 10px;}
+#view{
+    width: 100%;
+}
+#hone{
+    font-family: monospace;
+    color: lightslategray;
+    margin-left: 36%;
+    background-color: white;
+}
+#big{
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+}    
+#fp{
+    background-color: white;
+}
+#last{
+    background-color: black;
+}
+#first{
+   width: 500px;
+height: 400px;
+margin-top: 50px;
+border-right: 3px solid gray;
+display: inline-block;
+margin-left: 500px;
+border-left: 3px solid gray;
+}
+h2{color: aliceblue;
+font-size: 25px;
+margin-left: 40px;}
+.but{
+    background-color: black;
+    border: black;
+    color: dimgray;
+    display: block;
+    margin-left: 20px;
+}
+.but:hover{color: white;}
+.fb{
+    width: 30px;
+}
+
+.fb{
+    width: 45px;
+    height: 50px;
+    display: inline-block;
+}
+#cccc{
+    width: 150px;
+
+}
+
+.final{
+color:lightslategray;
+
+ }
+#p{color: lightslategray;
+display: inline-block;}
+#intro{
+    color: blue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    margin-top: 0%;
+}
